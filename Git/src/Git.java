@@ -32,7 +32,12 @@ public class Git {
 
 public int testMethod() {
 	int x = 5;
+<<<<<<< HEAD
 
 	return x;
 }
+=======
+	 System.out.println("Hello GitWorld!");
+	return x;
+>>>>>>> 0f98551b1846e53d3fdf41a191f4461fbcbd0ea5
 }
