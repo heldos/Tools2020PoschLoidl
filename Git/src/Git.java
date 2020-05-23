@@ -1,11 +1,23 @@
 
 public class Git {
+	
+	
+	
+	
+	
+	
 <<<<<<< HEAD
 
 	
 	
 	public void thisIsANewMethod() { 
+<<<<<<< HEAD
 	 System.out.println("Hello GitWorld!");
+=======
+		int a = 5;
+		int d = 9;
+		int g=a+d;
+>>>>>>> 297d5809a9e1a7eda4d0833abbcd5180c96e4569
 }
 =======
 		
