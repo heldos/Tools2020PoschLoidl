@@ -4,7 +4,9 @@ public class Git {
 
 	
 	
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() { 
+	 System.out.println("Hello GitWorld!");
+}
 =======
 		
 	
