@@ -18,6 +18,7 @@ public class Git {
 		int d = 9;
 		int g=a+d;
 		long q =20;
+		String s = "TestBugFixing";
 >>>>>>> 297d5809a9e1a7eda4d0833abbcd5180c96e4569
 }
 =======
@@ -38,5 +39,9 @@ public int testMethod() {
 =======
 	 System.out.println("Hello GitWorld!");
 	return x;
+<<<<<<< HEAD
+>>>>>>> bugfix
+=======
+>>>>>>> 0f98551b1846e53d3fdf41a191f4461fbcbd0ea5
 >>>>>>> bugfix
 }
