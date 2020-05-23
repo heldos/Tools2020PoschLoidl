@@ -17,6 +17,7 @@ public class Git {
 		int a = 5;
 		int d = 9;
 		int g=a+d;
+		long q =20;
 >>>>>>> 297d5809a9e1a7eda4d0833abbcd5180c96e4569
 }
 =======
