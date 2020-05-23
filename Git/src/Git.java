@@ -1,10 +1,20 @@
 
 public class Git {
+	
+	
+	
+	
+	
+	
 <<<<<<< HEAD
 
 	
 	
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() { 
+		int a = 5;
+		int d = 9;
+		int g=a+d;
+}
 =======
 		
 	
